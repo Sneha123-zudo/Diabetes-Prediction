@@ -14,14 +14,6 @@ A simple and interactive **Machine Learning web application** built using **Stre
 
 ---
 
-## 📸 Demo
-
-🔗 **Live App**: [Click here to try the Diabetes Prediction App](https://your-app-name.streamlit.app)
-
-> Replace the above link with your actual Streamlit app URL after deployment.
-
----
-
 ## ⚙️ How It Works
 
 1. The app loads a machine learning model (`diabetes_model.pkl`) trained on a dataset like the **PIMA Indian Diabetes Dataset**.
